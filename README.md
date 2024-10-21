@@ -1,5 +1,5 @@
 # traffic-flow
 Future goals:
-1. Build an zero shot object detection model from scratch(cos its fun)
-2. Run through an real-time video feed.
-3. Learn about time-series datasets and its different insights from kaggle(maybe this dataset can interpolated to a traffic prediction dataset)
+1.Develop a zero-shot object detection model from scratch (because it's an exciting challenge).
+2.Implement the model to process and analyze real-time video feeds.
+3.Explore time-series datasets and gain insights from Kaggle, with a potential extension towards building a traffic prediction dataset.
